@@ -1,1 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="index3.css" />
+    <title>Parking Tech warriors</title>
+  </head>
+  <body>
+    <h1>Parking Tech warriors</h1>
+    <iframe width="auto" height="auto"
+      class="hi2"
+      
+      src="https://www.youtube.com/embed/kDQE4Pg51KA?autoplay"
+      ;
+    ></iframe
+    ><br /><br />
+    <p>
+       El servicio de parqueadero de vehículos se ha convertido en una necesidad apremiante en todas las ciudades, debido al incremento del parque automotor tanto de carros como de motos, además de las restricciones para parquear en vía pública, así como la inseguridad para dejar el vehículo parqueado en un lugar sin protección. Por esta razón, se ha vuelto una necesidad prestar el servicio de parqueadero en lugares construidos inclusive como edificios de parqueaderos, así como terrenos o lotes acondicionados para tal fin. El problema que se plantea es que se requieren aplicaciones de software que faciliten la gestión del parqueo de vehículos en estos lugares y de esta manera se lleve un control de la operación diaria del parqueadero.
 
+La solución que se plantea consiste en desarrollar una aplicación Web para el servicio de parqueadero para vehículos de tipo carro o moto. La solución comienza desde la creación del parqueadero en su configuración de la estructura compuesta por niveles y puestos de parqueo por nivel, hasta la prestación del servicio de parqueo por minutos como también el servicio de alquiler de puestos de parqueo para pago por mensualidades.
+.<br /><br /><br /><br /><br />
+    </p>
+    <img
+      src="https://www.bosch-mobility-solutions.com/media/global/products-and-services/passenger-cars-and-light-commercial-vehicles/driver-assistance-systems/parking-assistant/stage_parkassistent_stage_mobile.jpg"
+      width="33%"
+      height=""
+    />
+    <img
+      src="https://www.bosch-mobility-solutions.com/media/global/products-and-services/passenger-cars-and-light-commercial-vehicles/driver-assistance-systems/rear-view-system/thumbnail_rueckfahrkammerasystem_stage_mobile.jpg"
+      width="33%"
+    />
+    <img
+      src="https://www.bosch-mobility-solutions.com/media/global/products-and-services/passenger-cars-and-light-commercial-vehicles/driver-assistance-systems/parking-aid/thumbnail_parkhilfe_stage_mobile.jpg"
+      width="33%"
+    /><br><br><br>
+    <h1>Instrucciones</h1>
+    <p>
+     1. Los vehículos, motocicletas y bicicletas deben ser estacionados en las zonas de parqueo de cada
+nivel destinado para esto, respetando las zonas verdes, áreas comunes, parqueaderos ajenos
+y de visitantes.
+2. Se recomienda que al momento de abrir las puertas de los vehículos se tenga cuidado ya que
+puede generarse algún tipo de daño tal como rayones en los vehículos de los parqueaderos
+vecinos.
+3. La entrada y salida de vehículos se controlará con la tarjeta que acredite al dueño del
+vehículo como usuario del estacionamiento; ésta no deberá dejarse
+dentro del vehículo. El portero está autorizado a no permitir la salida del vehículo que no esté
+identificado con la ficha y a su vez revisará el baúl a la entrada como a la salida.
+5. Las personas que extravíen la tarjeta de acceso vehicular deben solicitar una autorización
+provisional a la Administración, realizar el procedimiento de pérdida de documento y cancelar su
+costo ($50.000) para obtenerla nuevamente.
+6. Se solicita a todos los propietarios, copropietarios y residentes que sean dueños de
+motocicletas que en el momento de la salida del parqueadero o entrada al mismo, deben quitarse el
+casco para verificar su identidad.
+7. No está permitido realizar mantenimiento alguno a los vehículos o motocicletas y el lavado de
+los mismos dentro del parqueadero.
+9. Los vehículos y motocicletas deben tener su mantenimiento pertinente para evitar fugas de
+aceites que deterioren el área de parqueo; en todo caso deben conservar el aseo y
+presentación de las zonas comunes.
+10. Los vehículos deben ser parqueados en reverso.
+11. Al ingresar a la zona de parqueadero deberá encenderse las luces del vehículo.
+12. No está permitido el ingreso y parqueo de remolques, acoplado, tráiler o vehículo no
+motorizado que sea arrastrado y dirigido por otro así como la entrada de vehículos de tracción
+pesada que supere 1 tonelada de peso que excedan 2.15 metros de altura tales como camiones,
+furgones, tracto mulas, entre otros, ya que puede generar daños en los adoquines de vías
+del conjunto residencial.
+13. Se prohíbe parquear en zonas de circulación vehicular y en áreas cuya prohibición
+determine la Administración, con excepción de fuerza mayor o un caso fortuito. Al estacionar
+se debe tener en cuenta el espacio de parqueo para cada vehículo, la demarcación y
+respetar las líneas establecidas.
+
+16. Se le recuerda a todos los propietarios, copropietarios y arrendatarios mantener el buen
+estado la alarma del vehículo, para no causar ruido que afecte el descanso, el estudio y la vida
+normal de los residentes del Conjunto ; en especial, de aquéllos que habitan cerca de los
+parqueaderos.
+17. Todo daño que se presente o sea causado por uno de los usuarios dentro del
+parqueadero a cualquiera de los vehículos deberá ser reportado inmediatamente a la
+Administración, quien según las circunstancias deberá avisar a las autoridades de tránsito. En
+todo caso, los conductores de vehículos o motocicletas durante su permanencia en el Conjunto
+deberán dar estricto cumplimiento a las normas establecidas en el Código Nacional de
+Tránsito y las que las modifiquen o las complementen.
+18. Queda prohibido que los menores de edad conduzcan dentro del Parqueadero
+    </p>
+  </body>
+</html>
